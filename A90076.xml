@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from Germanie. Wherein is also related, how the emperours brother Arch-duke Leopold-William hath proceeded according to martiall law against those regiments that ran away in the late battell fought betwixt him and the Swedish generall Torstensohn, near Leipzigk the 23. of October last, 1642.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90076</idno>
+            <idno type="STC">Wing N959</idno>
+            <idno type="STC">Thomason E129_27</idno>
+            <idno type="STC">ESTC R16791</idno>
+            <idno type="EEBO-CITATION">99860093</idno>
+            <idno type="PROQUEST">99860093</idno>
+            <idno type="VID">156288</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90076)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156288)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E129[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from Germanie. Wherein is also related, how the emperours brother Arch-duke Leopold-William hath proceeded according to martiall law against those regiments that ran away in the late battell fought betwixt him and the Swedish generall Torstensohn, near Leipzigk the 23. of October last, 1642.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>December the 10th. Printed in the year, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Leopold Wilhelm, --  Archduke of Austria, 1614-1662 --  Early works to 1800.</term>
+               <term>Torstenson, Lennart, --  greve av Ortala, 1603-1651 --  Early works to 1800.</term>
+               <term>Thirty Years' War, 1618-1648 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156288:1" rendition="simple:additions"/>
+            <p>NEWS FROM GERMANIE. Wherein is alſo related, how the Em<g ref="char:EOLhyphen"/>perours Brother Arch-Duke <hi>Leopold-William</hi> Hath proceeded according to Mar<g ref="char:EOLhyphen"/>tiall Law againſt thoſe Regiments that ran away in the late Battell fought betwixt him and the Swediſh Generall <hi>Torſtenſohn,</hi> Near <hi>Leipzigk</hi> the 23. of <hi>October</hi> laſt, 1642.</p>
+            <p>
+               <hi>December</hi> the 10<hi rend="sup">th.</hi> Printed in the year, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:156288:2"/>
+            <pb n="1" facs="tcp:156288:2"/>
+            <opener>
+               <dateline>
+                  <hi>Erſurd</hi> 
+                  <date>
+                     <hi>the</hi> 13.23. <hi>of</hi> November, 1642.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E can heare no certain news how it ſtands with the Citie of <hi>Leipzigk;</hi> only this we underſtand, That the Beſieged are now very quiet, and ſhoot but little out of the Town, they expected the Duke of <hi>Saxonies</hi> reſolution; Meane while, the Swediſh Generall <hi>Torſtenſohn</hi> hath removed his head-quarter from <hi>Steteritz</hi> in<g ref="char:EOLhyphen"/>to the Suburbs before St. <hi>Peters</hi> Gate, and firſt of all, ſhot with his Canons ſuch breaches through the great ſteeple in the Caſtle, and ſpoiled the ſame ſo much, that the beſieged can make no more uſe of it: afterwards, over againſt the two wa<g ref="char:EOLhyphen"/>ter-works, he cauſed a very deep ditch to be dig<g ref="char:EOLhyphen"/>ged againſt the great outworke neer the Caſtle, and ſome demy-Canons to be planted very deep into the earth levell to the ground of the Caſtle Moat; if he brings it to paſſe, then the chiefeſt place of the Citie is loſt, there are likewiſe three Mines more made ready, inſomuch that the ſaid Citie is in great danger. The Swediſh Cavallery lyes enquartered all along in the way towards <hi>Bohemia;</hi> Aſſoon as <hi>Leipzigk</hi> is ſurrendred, it is thought they will march that way. The <hi>Wey<g ref="char:EOLhyphen"/>mariſh</hi> Army is arrived about <hi>Halberſtat,</hi> to expell
+<pb n="2" facs="tcp:156288:3"/>out of the ſayd Citie and Biſhoprick the new le<g ref="char:EOLhyphen"/>vyed Imperiall Troops, and then to joyn with the Swediſh Generall Major <hi>Coningsmarck:</hi> The new levyed Imperiall Troops under Colonell <hi>Pentzen,</hi> and Colonell <hi>Bothen,</hi> which were rou<g ref="char:EOLhyphen"/>ted lately by the Swedes in <hi>Luneburgland,</hi> having recollected themſelves again, had order to march towards <hi>Magdeburg,</hi> but not far by the cuſtome Sconce there, they were ſurprized again by a Swediſh party, and totally ruinated.</p>
+         </div>
+         <div type="account">
+            <opener>
+               <dateline>
+                  <hi>From the Swediſh Camp before</hi> Leipzigk <date>
+                     <hi>the</hi> 16.26. <hi>of</hi> November.</date>
+               </dateline>
+            </opener>
+            <p>THe Siege before the Citie and Caſtle of <hi>Le<g ref="char:EOLhyphen"/>ipzigk</hi> is yet ſeriouſly continued, the 7.17. and the 8.18. of this inſtant, Generall <hi>Torſten<g ref="char:EOLhyphen"/>ſohn</hi> made above 500. Canon-ſhots againſt the great ſteeple in the Caſtle, ſo that the beſieged made but a volly ſhot out of the Steeple, and af<g ref="char:EOLhyphen"/>terwards let down their Canons from the ſame, the 9.19. and 10.20. of this inſtant; they played again fiercely with their Canons againſt the Ca<g ref="char:EOLhyphen"/>ſtle, and into the Citie, and battered down the ſtairs in the Caſtle ſteeple, they flang alſo divers divers Granadoes into it; eſpecially one great one, which fell into the Storehouſe neare the Caſtle hard by <hi>Peters</hi> ſteeple, which took ſuch ef<g ref="char:EOLhyphen"/>fect, that the whole roofe of the houſe was taken off by it; Mean while the Swedes continued in approaching towards the Citie, and came to the very Moats of the ſame: Whereupon, the 11.12. of this inſtant, a new Battery was raiſed, Can<g ref="char:EOLhyphen"/>nons
+<pb n="3" facs="tcp:156288:3"/>planted upon it, and the Walls battered, whereby a great part of the Wall fell into the Moatt, and fill'd up a great part of it, the 12.22. <hi>dito,</hi> he beſieged viewed the breach in the Wall, and about 10. of the clock at Noon, ſallied out unawares with a reaſonable ſtrength, ſurprized and ſlew two Captains, and two Lievtenants together with ſome few common ſouldiers, nailed ſix Pee<g ref="char:EOLhyphen"/>ces of Ordnance ſtanding upon the ſayd Battery, fired the Gunpowder and Watch-houſes, chaſed the Gunners from the Battery, and afterwards retired into the Citie again, the ſeventh Peece of ordnance that ſtood on the ſame battery, they took not ſo much time to nayl it, out of the two Pee<g ref="char:EOLhyphen"/>ces the nayls were preſently taken again, out of which the Swedes played into the Citiy, out of the other four Peeces the nayls were likewiſe ta<g ref="char:EOLhyphen"/>ken again, and the ſame likewiſe uſed again a<g ref="char:EOLhyphen"/>gainſt the Citie; the ſame day about four of the clock in the Evening, the beſieged ventured a<g ref="char:EOLhyphen"/>gain, ſallied out again through the ſame Breach where the wall was battered down, fired the ſhel<g ref="char:EOLhyphen"/>ters and Cannon baskets near the battery, and the powder upon it, but they were beaten back again with the loſſe of many men, that were both ſlain and taken priſoners, and the ſame day the beſie<g ref="char:EOLhyphen"/>ged undertook to ſhoot with Muskets and double Muskets out of the breach of the Caſtle ſteeple, but they were preſently hindered in their deſigne by the Swediſh Cannons. The 13.23. <hi>dito</hi> the Swedes begun to ſhoot a breach not far from the Caſtle, hard by the Water-worke, and continued
+<pb n="4" facs="tcp:156288:4"/>the ſhooting all the next day long, and ſpared no labour with approaching, undermining and bat<g ref="char:EOLhyphen"/>tering, and cut off all the Mills from the beſieg<g ref="char:EOLhyphen"/>ed, and the River of <hi>Pleiſſe</hi> flowing heretofore thorow the city, they led another way; and being the <hi>Swedes</hi> underſtood by the priſoners, That a<g ref="char:EOLhyphen"/>bout 1200 Imperiall ſouldiers fled in the laſt Bat<g ref="char:EOLhyphen"/>tell into the city, and that they have armed all young Tradeſ-men; and being the <hi>Swedes</hi> per<g ref="char:EOLhyphen"/>ceive alſo, That the beſieged intend to defend themſelves to the laſt man, and to expect the ex<g ref="char:EOLhyphen"/>tremities, wherefore the <hi>Swedes</hi> make all manner of preparations for a generall aſſault, which the beſieged are every day to expect: the <hi>Swedes</hi> have planted yet 12 Cannons cloſe to the wall, to force thereby the yeelding of the city; horſes and cat<g ref="char:EOLhyphen"/>tell are ſold very cheap in the Swediſh Camp; all the country thereabouts is wholly ruinated; the Weymariſh Army is arrived within two hours going from the Swediſh Camp; aſſoon as they are arrived in the Camp, a generall Aſſault ſhall be given, if <hi>Leipzigk</hi> doth not come to an Agree<g ref="char:EOLhyphen"/>ment.</p>
+         </div>
+         <div type="account">
+            <opener>
+               <dateline>
+                  <hi>Prague</hi> 
+                  <date>
+                     <hi>the</hi> 19.29 <hi>of Nov.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>From <hi>Rockezan</hi> the 16.26 of this inſtant we are certified, That Arch-Duke Leopold <hi>William</hi> hath ſummoned to appear before him there the Picco<g ref="char:EOLhyphen"/>lominiſh, Pompeijch, Bucheimiſh, and Maudlo<g ref="char:EOLhyphen"/>iſh Regiments: Aſſoon as they were come into the Town, he cauſed the Gates to be guarded with a 1000 Muskettiers; and 3 other Regi<g ref="char:EOLhyphen"/>ments arreſted the 4 Lievtenant-colonells, and
+<pb n="5" facs="tcp:156288:4"/>ſignified unto them their faults: Unto the Ser<g ref="char:EOLhyphen"/>jeant-Majors, Captains of Horſe, and all other Officers, he read likewiſe their ſentence, and thereupon cauſed them to be beheaded; but the Corporalls, and other Officers, together with the tenth man of the ordinary horſe-men, to be hanged, the reſt he declared for Rebells, made them a free Price, cauſed the Generall Provoſt to tear off their Colours from the Standards before their eyes, and to break the Standards in pieces.</p>
+         </div>
+         <div type="account">
+            <opener>
+               <dateline>
+                  <hi>From Alſatia,</hi> 
+                  <date>
+                     <hi>the</hi> 18.28 <hi>of Nov.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>Generall Major <hi>Erluch,</hi> Governour of <hi>Bryſſack,</hi> hath fetched from <hi>Hohenwiel,</hi> 2 Demi-cannons, and 4 Quarter-cannons, wherewith he intends to march towards <hi>Zell</hi> or <hi>Villingen:</hi> ſome write, That Lievtenant-colonell <hi>Roſa,</hi> with the Avant<g ref="char:EOLhyphen"/>guard, hath begird already <hi>Dudlingen,</hi> wherein lie 100 Imperiall Horſe, and 50 Muskettiers: At <hi>Stutgurt</hi> and <hi>Eſlingen,</hi> fell the 15.25 of this in<g ref="char:EOLhyphen"/>ſtant, betwixt twelve and one of the clock at Noon, an unuſuall rain; the water that was taken up in Veſſels, was like unto the colour of fleſh, notwithſtanding any linnen cloth being put into the ſame, it did not colour it in the leaſt way; and in the morning, ſtrange ſights of fire appeared in the Ayr: Generall Major <hi>Erlach</hi> intends to put the whole country of <hi>Wirtenberg</hi> under contribution, like as he hath done unto the Marquiſate of <hi>Baden.</hi>
+            </p>
+         </div>
+         <div type="account">
+            <opener>
+               <dateline>
+                  <hi>An extract of a Letter from Franckford,</hi> 
+                  <date>
+                     <hi>the</hi> 21 <hi>of Nov. the</hi> 1 <hi>Dec.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>The Arch-Duke Leopold <hi>William</hi> is at <hi>Pilſen,</hi> appointing Quarters for his Horſe-men; and being
+<pb n="6" facs="tcp:156288:5"/>at <hi>Rockezan</hi> in <hi>Behomia,</hi> cauſed one of thoſe Regi<g ref="char:EOLhyphen"/>ments that they ſay did run away in the laſt Bat<g ref="char:EOLhyphen"/>tell, to be put in order upon the Market-place of the Town, and ſo environed them all about with other Horſe-men and Muskettiers, then cauſed their Cornets to be taken from them, and all the Officers light from their horſes, and committed them as priſoners to the Generall Provoſt; after this, cauſed likewiſe all the ordinary Horſe-men likewiſe to alight from off their horſes, and lay down their Arms; all which together with their horſes, he hath given to other Regiments, and pronounced ſentence, That all the Officers ſhould be hanged, and the ordinary Horſe-men ſhall caſt Dice, and the tenth man ſhall likewiſe be hanged, and the reſt he declared Knaves and Rogues, and that they ſhall be ſent as ſlaves, perpetually to work in the Fortifications of <hi>Hungaria;</hi> all which hath been done the next day, 14 Officers hanged, and two ſhot to death, which is a great example to all ſouldiers; the Lievtenant-colonell, and Ma<g ref="char:EOLhyphen"/>jor of the Regiment, have been ſent for <hi>Prague,</hi> where their Colonell is, whoſe name is <hi>Maudlo,</hi> in priſon, where they will likewiſe be puniſhed, and many others of the other 3 Regiments, but I believe not ſo ſeverely as this Regiment, for the like hath not been done theſe many yeers. At this inſtant we underſtand of the Agent of the Biſhop of <hi>Wurtsburg,</hi> That the city of <hi>Leipzigk</hi> hath a<g ref="char:EOLhyphen"/>greed with the Swedes, to give 200000 Rixdal<g ref="char:EOLhyphen"/>lers for the plundering, and take in one Regiment for Garriſon: The truth we ſhall know this after<g ref="char:EOLhyphen"/>noon by the Letters.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
